@@ -3,6 +3,6 @@
 int main()
 {
     printf("\nola mundo!!");
-    printf("\nBoa noite Alex!!!");
+    printf("\nBoa noite Lucas!!!");
     return 0;
 }
